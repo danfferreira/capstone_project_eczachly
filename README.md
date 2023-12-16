@@ -25,7 +25,7 @@ The **Animal Adoption Database** project aims to aggregate data on adoptable ani
 
 ### Data Processing and Modeling
 - **PySpark**: For data processing
-- **DBT Core**: To model data in layers (Bronze, Silver, and Gold)
+- **(Optional) DBT Core**: To model data in layers (Bronze, Silver, and Gold)
 
 ### Additional Components
 - **WAP Patterns**: To be determined

@@ -1,7 +1,8 @@
 # Animal Adoption Database
 
 ## Overview
-The **Animal Adoption Database** project aims to aggregate data on adoptable animals from multiple sources into a centralized (at first) AWS database.
+The **Animal Adoption Database** project aims to aggregate data on adoptable animals from multiple sources into a centralized (at first) AWS database. 
+Focusing on leveraging technology for the betterment of pet adoption processes.
 
 ## Data Sources
 - **Pet Finder**: [Pet Finder API](https://www.petfinder.com/developers/)
@@ -36,5 +37,4 @@ As the owner of one dog and two adopted cats, I am deeply invested in the cause 
 
 > "Every time I look at my pets, I am reminded of the importance of adoption."
 
-## Capstone Project
-This endeavor is part of my Capstone project, focusing on leveraging technology for the betterment of pet adoption processes.
+

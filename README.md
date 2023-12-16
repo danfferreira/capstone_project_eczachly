@@ -1,6 +1,3 @@
-# capstone_project_eczachly
-Capstone Project for the Zach Wilson V3 Bootcamp 
-
 # Animal Adoption Database
 
 ## Overview
